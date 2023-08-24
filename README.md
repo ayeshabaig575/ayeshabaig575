@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayeshabaig575
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ...Electrical Engineering
+- 🌱 I’m currently learning Electrical Engineering
 - 📫 How to reach me via linkedn
 
 <!---
